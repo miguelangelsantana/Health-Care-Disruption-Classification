@@ -5,7 +5,7 @@
 Author: Miguel Santana
 
 ### Project Methodology
-COVID-19 caused major disruptions all over the world. In order to work toward normalcy, we must identify and understand pain points before building tools and resources that help vulnerable populations manage the new challenges of the world. This analysis will explore two datasets in order to gain a deeper understanding of how COVID-19 effected the availability of health care as well as the availability of mental health in the United States. 
+COVID-19 caused major disruptions all over the world. In order to work toward normalcy, we must identify and understand pain points before building tools and resources that help vulnerable populations manage the new challenges of the world. This analysis will explore two datasets in order to gain a deeper understanding of how COVID-19 affected the availability of health care as well as the availability of mental health in the United States. 
 
 ![!](/images/topscope.jpg)
 
