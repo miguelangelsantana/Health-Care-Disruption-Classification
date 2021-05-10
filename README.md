@@ -29,25 +29,25 @@ The full dashboard can be viewed via Tableau Public [here.](https://public.table
 ![png](/images/results.png)
 
 **Class Report**
-![png](output_65_0.png)
+![png](/images/ClassificationReport.png)
 
 **AUC**
-![png](output_65_0.png)
+![png](/images/AUC.png)
 
 **Confusion Matrix**
-![png](output_65_0.png)
+![png](/images/ConfusionMatrix.png)
 
 **Feature Importance**
-![png](output_65_0.png)
+![png](/images/FeatureImportance.png)
 
 ## Interpret Model | SHAP
-![png](output_65_0.png)
+![png](/images/SHAP.png)
 
-**Highlighted Feature | Education**
-![png](output_65_0.png)
+**Highlighted Feature | Education Level**
+![png](/images/EducationLevel.png)
 
-**Highlighted Feature | Age**
-![png](output_65_0.png)
+**Highlighted Feature | Gender**
+![png](/images/Gender.png)
 
 ## Conclusion
 Our analysis is centered around dataset classifiers that negatively affect our target variable (per SHAP value analysis). Lower target variables represent limited (or no health care) received by individuals who explicitly needed health care pre/post COVID-19. 
@@ -69,7 +69,7 @@ Online survey responses naturally carry a bias due to the fact that certain grou
 Future work should include resource development for individuals in the 20-30 age category with a special focus on college students. This specific demographic seems especially affected with respect to limited (or no) health care. 
 
 ### Further Information
-Please review the narrative of our analysis in [our jupyter notebook](./insurance_notebook.ipynb) or review our [presentation](./presentation.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./healthcare_notebook.ipynb) or review our [presentation](./presentation.pdf)
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
@@ -78,7 +78,7 @@ For any additional questions, please reach out via email at santana2.miguel@gmai
 ```
 
 ├── README.md               <- The top-level README for reviewers of this project.
-├── insurance_notebook.ipynb     <- narrative documentation of analysis in jupyter notebook
+├── healthcare_notebook.ipynb     <- narrative documentation of analysis in jupyter notebook
 ├── presentation.pdf        <- pdf version of project presentation
 
 ```
