@@ -28,25 +28,32 @@ The full dashboard can be viewed via Tableau Public [here.](https://public.table
 
 ![png](/images/results.png)
 
-**Class Report**
+### Class Report
+
 ![png](/images/ClassificationReport.png)
 
-**AUC**
+### AUC
+
 ![png](/images/AUC.png)
 
-**Confusion Matrix**
+### Confusion Matrix
+
 ![png](/images/ConfusionMatrix.png)
 
-**Feature Importance**
+### Feature Importance
+
 ![png](/images/FeatureImportance.png)
 
 ## Interpret Model | SHAP
+
 ![png](/images/SHAP.png)
 
-**Highlighted Feature | Education Level**
+### Highlighted Feature | Education Level
+
 ![png](/images/EducationLevel.png)
 
-**Highlighted Feature | Gender**
+### Highlighted Feature | Gender
+
 ![png](/images/Gender.png)
 
 ## Conclusion
@@ -65,7 +72,7 @@ Individuals affected by limited (or no health care) have one or more of the foll
 
 Online survey responses naturally carry a bias due to the fact that certain groups of individuals are not as tech savvy as others. As a result, the representation of these groups is limited. From a cultural perspective, some individuals (depending on the country) are less willing to be honest on surveys. This may be due to regulatory influence or a general mindset passed down through generations (don't complain about things you can't change). 
 
-## Future Work
+### Future Work
 Future work should include resource development for individuals in the 20-30 age category with a special focus on college students. This specific demographic seems especially affected with respect to limited (or no) health care. 
 
 ### Further Information
