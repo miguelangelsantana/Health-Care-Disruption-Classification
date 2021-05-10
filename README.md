@@ -26,7 +26,7 @@ The full dashboard can be viewed via Tableau Public [here.](https://public.table
 # Statistical Model | Pycaret
 ## Gradient Boosting Classifier
 
-![png](output_65_0.png)
+![png](/images/results.png)
 
 **Class Report**
 ![png](output_65_0.png)
