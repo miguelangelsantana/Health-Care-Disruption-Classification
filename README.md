@@ -55,11 +55,11 @@ The full dashboard can be viewed via Tableau Public [here.](https://public.table
 
 ### Highlighted Feature | Education Level
 
-![png](/images/EducationLevel.png)
+![png](/images/EducationLevel.jpg)
 
 ### Highlighted Feature | Gender
 
-![png](/images/Gender.png)
+![png](/images/Gender.jpg)
 
 ## Conclusion
 Our analysis is centered around dataset classifiers that negatively affect our target variable (per SHAP value analysis). Lower target variables represent limited (or no health care) received by individuals who explicitly needed health care pre/post COVID-19. 
