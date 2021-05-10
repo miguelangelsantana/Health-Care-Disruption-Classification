@@ -9,7 +9,7 @@ COVID-19 caused major disruptions all over the world. In order to work toward no
 
 ![!](/images/topscope.jpg)
 
-**Photo by Markus Frieauff on Unsplash**
+Photo by Markus Frieauff on Unsplash
 
 
 ### Data and Analytical Structure
