@@ -7,6 +7,11 @@ Author: Miguel Santana
 ### Project Methodology
 COVID-19 caused major disruptions all over the world. In order to work toward normalcy, we must identify and understand pain points before building tools and resources that help vulnerable populations manage the new challenges of the world. This analysis will explore two datasets in order to gain a deeper understanding of how COVID-19 effected the availability of health care as well as the availability of mental health in the United States. 
 
+![!](/images/topscope.jpg)
+
+**Photo by Markus Frieauff on Unsplash**
+
+
 ### Data and Analytical Structure
 The first dataset is a collection of survey data addressing Mental Health Care (last 4 weeks) in the United States. The dataset is provided by the Centers for Disease Control and Prevention via Data.gov and can be found [here.](https://catalog.data.gov/ar/dataset/mental-health-care-in-the-last-4-weeks) The dataset was collected as part of the Household Pulse Survey. Additional information outlining the specifics of the survey can be found [here.](https://www.cdc.gov/nchs/covid19/pulse/mental-health-care.htm)
 
